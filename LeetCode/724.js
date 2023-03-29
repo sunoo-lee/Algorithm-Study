@@ -22,3 +22,4 @@ var pivotIndex = function(nums) {
     }
     return targetIndex;
 };
+ 

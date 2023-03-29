@@ -12,3 +12,4 @@ var runningSum = function(nums) {
     
     return sumNums;
 };
+ 
